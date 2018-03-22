@@ -1,0 +1,9 @@
+{
+	"players": {
+			"name": "joca64",
+			"wins": "3"
+		   },
+		   {	"name": "cyborgimp",
+			"wins": "1"
+		   }
+}

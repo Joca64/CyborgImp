@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stroggy.iml" filepath="$PROJECT_DIR$/.idea/modules/Stroggy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stroggy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Stroggy_main.iml" group="Stroggy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stroggy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Stroggy_test.iml" group="Stroggy" />
+    </modules>
+  </component>
+</project>
